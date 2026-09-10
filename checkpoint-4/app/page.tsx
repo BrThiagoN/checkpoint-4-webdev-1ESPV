@@ -1,12 +1,11 @@
 
 import Notation from "./components/notation";
+import Header from "./components/header";
 
 export default function Home() {
   return (
     <div>
-      <header className="flex min-h-screen flex-col items-center justify-between p-24">
-        <h1 className="text-3xl font-bold">HARD NOTATION</h1>
-      </header>
+      <Header />
       <Notation />
     </div>
 
