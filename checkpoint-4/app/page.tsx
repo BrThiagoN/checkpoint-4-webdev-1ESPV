@@ -1,5 +1,3 @@
-import { Playwrite_CA } from "next/font/google";
-import Image from "next/image";
 
 import Notation from "./components/notation";
 
