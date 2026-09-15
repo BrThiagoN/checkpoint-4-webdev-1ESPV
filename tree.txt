@@ -1,0 +1,29 @@
+checkpoint-4/
+checkpoint-4/.gitignore (480b)
+checkpoint-4/AGENTS.md (678b)
+checkpoint-4/app/
+checkpoint-4/app/components/
+checkpoint-4/app/components/header.tsx (232b)
+checkpoint-4/app/components/notation.tsx (1671b)
+checkpoint-4/app/globals.css (381b)
+checkpoint-4/app/layout.tsx (690b)
+checkpoint-4/app/page.tsx (199b)
+checkpoint-4/app/pages/
+checkpoint-4/app/pages/notes.tsx (0b)
+checkpoint-4/CLAUDE.md (11b)
+checkpoint-4/eslint.config.mjs (465b)
+checkpoint-4/next.config.ts (133b)
+checkpoint-4/package-lock.json (236726b)
+checkpoint-4/package.json (534b)
+checkpoint-4/postcss.config.mjs (94b)
+checkpoint-4/public/
+checkpoint-4/public/file.svg (391b)
+checkpoint-4/public/globe.svg (1035b)
+checkpoint-4/public/next.svg (1375b)
+checkpoint-4/public/vercel.svg (128b)
+checkpoint-4/public/window.svg (385b)
+checkpoint-4/README.md (1450b)
+checkpoint-4/tsconfig.json (666b)
+gitcontext.txt (1310b)
+package-lock.json (89b)
+participantes.md (114b)

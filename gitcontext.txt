@@ -1,0 +1,44 @@
+# CONTEXTO GIT - 1ESPV/BrThiagoN-checkpoint-4-webdev-1ESPV
+# Path: /Volumes/externo/FIAP/corretor-avaliacoes/turmas/2026/checkpoint-4/1ESPV/BrThiagoN-checkpoint-4-webdev-1ESPV
+
+## git remote -v
+origin	https://github.com/BrThiagoN/checkpoint-4-webdev-1ESPV (fetch)
+origin	https://github.com/BrThiagoN/checkpoint-4-webdev-1ESPV (push)
+
+## git branch -a
+* main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/main
+
+## git log --oneline -50 (default branch)
+38e06c7 chore agora ta mais bonitinho
+991ad0d agora foi
+0cf36a9 feat/ componente Header e página notes
+ae5f84e feat/ id and submit button
+1eee24b feat/ id
+0f768be saudades da minha ex
+2f17c8a chore titulo
+8dddfa6 chore limpei tudo
+2d3f483 fix/ gt??
+25a9c06 Foram adicionados os participantes
+3b97eda criados os arquivos
+
+## git shortlog -sn -e (HEAD)
+9	brthiagon <thiagotgn6@gmail.com>
+     2	Laboratório FIAP <labsfiap@fiap.com.br>
+
+## git log --oneline --graph --all -20
+* 38e06c7 chore agora ta mais bonitinho
+* 991ad0d agora foi
+* 0cf36a9 feat/ componente Header e página notes
+* ae5f84e feat/ id and submit button
+* 1eee24b feat/ id
+* 0f768be saudades da minha ex
+* 2f17c8a chore titulo
+* 8dddfa6 chore limpei tudo
+* 2d3f483 fix/ gt??
+* 25a9c06 Foram adicionados os participantes
+* 3b97eda criados os arquivos
+
+## contagem de commits HEAD
+11
